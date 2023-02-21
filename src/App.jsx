@@ -5,10 +5,10 @@ import Footer from './Footer';
 
 export default function App() {
   return (
-    <main>
+    <>
       <Header />
-      React ⚛️ + Vite ⚡ + Replit 🌀
+      I will designing the landing page on 20/2/23
       <Footer />
-    </main>
+    </>
   )
 }
